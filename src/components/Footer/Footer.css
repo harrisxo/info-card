@@ -1,0 +1,54 @@
+.footer {
+    position: absolute;
+    width: 317px;
+    height: 64px;
+    left: 116px;
+    top: 760px;
+    background: #161619;
+    border-radius: 0px 0px 10px 10px;
+}
+
+.fa-square-twitter {
+    position: absolute;
+    left: 20px;
+    top: 12px;
+    color: #918E9B;
+    font-size: 40px;
+}
+
+.fa-square-facebook {
+    position: absolute;
+    left: 80px;
+    top: 12px;
+    color: #918E9B;
+    font-size: 40px;
+}
+
+.fa-square-instagram {
+    position: absolute;
+    left: 140px;
+    top: 12px;
+    color: #918E9B;
+    font-size: 40px;
+}
+
+.fa-linkedin {
+    position: absolute;
+    left: 200px;
+    top: 12px;
+    color: #918E9B;
+    font-size: 40px;
+}
+
+.fa-square-github {
+    position: absolute;
+    left: 260px;
+    top: 12px;
+    color: #918E9B;
+    font-size: 40px;
+}
+
+.fa-brands:hover {
+    transform: scale(1.07);
+    cursor: pointer;
+}
